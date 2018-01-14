@@ -1,0 +1,5 @@
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame\bin\Debug\FightGame.dll
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame\bin\Debug\FightGame.pdb
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame\obj\Debug\FightGame.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame\obj\Debug\FightGame.dll
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame\obj\Debug\FightGame.pdb

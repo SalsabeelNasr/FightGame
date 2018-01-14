@@ -1,0 +1,11 @@
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\bin\Debug\FightGame.UI.exe.config
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\bin\Debug\FightGame.UI.exe
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\bin\Debug\FightGame.UI.pdb
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\bin\Debug\FightGame.dll
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\bin\Debug\FightGame.pdb
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\obj\Debug\FightGame.UI.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\obj\Debug\FightGame.UI.exe
+C:\Users\Magdy\Desktop\magdyTasks\DotNetTask\Task3\FightGame\FightGame.UI\obj\Debug\FightGame.UI.pdb
+C:\Users\Magdy\Desktop\FightGame\FightGame.UI\bin\Debug\FightGame.UI.exe.config
+C:\Users\Magdy\Desktop\FightGame\FightGame.UI\obj\Debug\FightGame.UI.exe
+C:\Users\Magdy\Desktop\FightGame\FightGame.UI\obj\Debug\FightGame.UI.pdb
